@@ -10,5 +10,5 @@ precise
 
 
 ##
-- 🛠 Link do projeto : (https://react-entrega-hamburgueria-da-kenzie-talles-simao.vercel.app)
+- 🛠 Link do projeto : (https://react-entrega-hamburgueria-da-kenzie-talles-simao.vercel.app/)
 
